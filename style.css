@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    min-height: 20vh;
+}
+main{
+    min-height: 60vh;
+}
+footer{
+    min-height: 20vh;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem;
+}
